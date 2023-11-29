@@ -20,5 +20,19 @@ class UsersSeeder extends Seeder
                 'password' => 'user@123'
             ]
         );
+
+        DB::table('users')->insert(
+            [
+                'username' => 'user2',
+                'password' => 'user@231'
+            ]
+        );
+
+        DB::table('users')->insert(
+            [
+                'username' => 'user3',
+                'password' => 'user@321'
+            ]
+        );
     }
 }

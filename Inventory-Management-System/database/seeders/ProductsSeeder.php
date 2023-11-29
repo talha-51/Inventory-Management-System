@@ -21,5 +21,21 @@ class ProductsSeeder extends Seeder
                 'price' => 500000,
             ]
         );
+
+        DB::table('products')->insert(
+            [
+                'name' => 'AC',
+                'quantity' => 5,
+                'price' => 1000000,
+            ]
+        );
+
+        DB::table('products')->insert(
+            [
+                'name' => 'Phone',
+                'quantity' => 20,
+                'price' => 350000,
+            ]
+        );
     }
 }

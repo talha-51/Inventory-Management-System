@@ -8,15 +8,17 @@ Requirements:
 
 To Run The Project:
 
-1. Create a DB named 'ims' in phpMyAdmin.
-2. Clone the project.
-3. Inside the project folder run the following commands one by one in cmd:
+1. Start Apache and MySQL in XAMPP.
+2. Create a DB named 'ims' in phpMyAdmin.
+3. Clone the project.
+4. Go inside the project folder (Inventory-Management-System) and run the following commands one by one in git bash / cmd:
    1. composer install
-   2. cp .env.example .env
-   3. php artisan migrate
-   4. php artisan db:seed
-   5. php artisan key:generate
-   6. php artisan serve
+   2. cp .env.example .env /rename (.env.example) to (.env) if you face any error with the command.
+   3. Go inside the .env file and change the DB name to 'ims'.
+   4. php artisan migrate
+   5. php artisan db:seed
+   6. php artisan key:generate
+   7. php artisan serve
 
 Login credential:
 
