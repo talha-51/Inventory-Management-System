@@ -24,3 +24,17 @@ Username: user1
 password: user@123
 
 Project Pictures:
+
+![1-login](https://github.com/talha-51/Inventory-Management-System/assets/77994433/f58c7542-0d1e-4a01-9b46-a9f2c1040182)
+
+![2-home](https://github.com/talha-51/Inventory-Management-System/assets/77994433/9feb7eb5-c35d-4b86-88ee-c2a4ea68c2d6)
+
+![3-userList](https://github.com/talha-51/Inventory-Management-System/assets/77994433/e07b7af9-3c81-4173-9860-53270ecbf500)
+
+![4-addNewUser](https://github.com/talha-51/Inventory-Management-System/assets/77994433/c0b32972-0baf-4730-92ff-aba5ecba0ec3)
+
+![5-productList](https://github.com/talha-51/Inventory-Management-System/assets/77994433/6f8cfe4c-c125-41d4-821f-9722ee251f80)
+
+![6-addProduct](https://github.com/talha-51/Inventory-Management-System/assets/77994433/25c956a8-bc5e-433b-afa4-add2d9d42df8)
+
+![7-editProduct](https://github.com/talha-51/Inventory-Management-System/assets/77994433/5761c79b-b91d-4ce8-8e8e-5ecaf87e3975)
